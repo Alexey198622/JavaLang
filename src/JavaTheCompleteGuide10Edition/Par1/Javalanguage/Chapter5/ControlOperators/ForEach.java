@@ -13,5 +13,6 @@ public class ForEach {
             System.out.println("Значение равно: " + x);
             sum += x;
         }
+        System.out.println("Сумма равна: " + sum);
     }
 }
